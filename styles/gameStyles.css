@@ -1,0 +1,35 @@
+*{
+	font-family: 'Tilt Neon', cursive;
+}
+button,input{
+	border: solid black 1px;
+	border-radius:10px;
+	width:auto;
+	height:auto;
+	margin-left: auto;
+	font-size: 120%;
+}
+.boutonChoix{
+	width:auto;
+}
+.jetonImg{
+	width: auto;
+}
+.jeton{
+	background-color:rgba(0, 0, 0, 0);
+	border:none;
+	margin:auto;
+	width:auto;
+	height:auto;
+}
+.boutonEtat{
+	margin:0;
+	padding: 0;
+}
+.boutonChoix
+{
+	margin-right: 10%;
+}
+.lastLab{
+	margin:auto;
+}
